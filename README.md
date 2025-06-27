@@ -453,5 +453,5 @@ For YOLOv5 bugs and feature requests please visit [GitHub Issues](https://github
 
 [assets]: https://github.com/ultralytics/yolov5/releases
 [tta]: https://github.com/ultralytics/yolov5/issues/303
-# YOLOv5_Xray
-# YOLOv5_Xray
+# YOLOv5_Xray (My modification)
+- models/common.py -- SiLU -> LeakyReLU 
