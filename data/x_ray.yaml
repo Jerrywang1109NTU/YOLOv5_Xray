@@ -1,0 +1,8 @@
+path: ../yolov5-7.0/data/YOLO_data_6_24_0  # dataset root dir
+train: images/train  # train images (relative to 'path') 15 images
+val: images/valid  # val images (relative to 'path') 3 images
+test: images/test
+
+names:
+ 0: A
+ 1: B
